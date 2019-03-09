@@ -1,0 +1,11 @@
+{
+  "name": "adbot",
+  "version": "1.2.0",
+  "description": "FRX",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adam",
+  "license": "ISC"
+}
